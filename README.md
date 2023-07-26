@@ -18,7 +18,7 @@
 &nbsp;<a href="">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="">
+&nbsp;<a href="https://medium.com/@pedrorechee">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>&nbsp;
 &nbsp;<a href="">
