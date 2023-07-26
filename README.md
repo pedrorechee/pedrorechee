@@ -2,7 +2,7 @@
   Prestador de Serviço de **Análise** e **Ciencia de Dados** na área de Logistica pela [Transul Transporte](https://transultransporte.com.br/)
 - 📈 Utilizo a linguagem de programação python e R , e de consulta o SQL com ferramentas de BI, automatizando a geração de relatórios, construindo Dashboards tanto com Power Bi quanto web e auxiliando em análises financeiras e logisticas
 - ✌️ Atualmente Faço faculdade de **Engenharia de Software** e uma **formmação de Ciencista de Dados** pela Data Science Academy
-- 🖥️ Tecnologias em que **DOMINO** :
+- 🖥️ Tecnologias do meu dia a dia :
 
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />&nbsp;&nbsp;
@@ -24,3 +24,18 @@
 &nbsp;<a href="">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
+
+
+### Meus projetos principais:
+- <a href="">
+    Projeto 
+  </a>
+- <a href="">
+    Projeto
+  </a>
+- <a href="">
+    Projeto
+  </a>
+- <a href="">
+    Projeto
+  </a>
