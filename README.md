@@ -1,6 +1,7 @@
 ### Eae Galera! Tudo beleza? Pedro por aqui...
-  Prestador de Serviço de **Análise de BI** e **Ciencia de Dados** na área de Logistica pela [Transul Transporte](https://transultransporte.com.br/)
-- 📈 Utilizo a linguagem de programação python e R , e de consulta o SQL com ferramentas de BI, automatizando a geração de relatórios, construindo Dashboards tanto com Power Bi quanto web e auxiliando em análises financeiras e logisticas
+
+- Atualmente sou Analista de BI na área de Logistica pela [Transul Transporte](https://transultransporte.com.br/)
+- 📝 Apaixonado por projetos de Ciência de dados e Machine Learning 
 - ✌️ Atualmente Faço faculdade de **Engenharia de Software** e uma **formação de Ciencista de Dados** pela Data Science Academy
 - 🖥️ Tecnologias do meu dia a dia :
 
