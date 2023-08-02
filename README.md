@@ -2,7 +2,7 @@
 
 - Atualmente sou Analista de BI na área de Logistica pela [Transul Transporte](https://transultransporte.com.br/)
 - 📝 Apaixonado por projetos de Ciência de dados e Machine Learning 
-- ✌️ Atualmente Faço faculdade de **Engenharia de Software** e uma **formação de Cientista de Dados** pela Data Science Academy
+- ✌️ Atualmente Faço faculdade de **Engenharia de Software** e uma **formação de Cientista de Dados** pela [Data Science Academy](https://www.datascienceacademy.com.br/)
 - 🖥️ Tecnologias do meu dia a dia :
 
 <div style="display: inline">
