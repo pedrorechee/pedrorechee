@@ -19,8 +19,8 @@
 &nbsp;<a href="https://www.linkedin.com/in/pedorechee">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="https://medium.com/@pedrorechee">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+&nbsp;<a href="https://www.kaggle.com/pedrorechee">
+  <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
 </a>&nbsp;
 &nbsp;<a href="https://www.instagram.com/pedrorechee__portfolio/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
